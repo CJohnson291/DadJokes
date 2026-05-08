@@ -36,3 +36,13 @@ GET /joke/:id/html Returns the same joke rendered as a simple HTML page (see scr
 	◦ Container App environment
 	◦ Container App
 This architecture mirrors real-world cloud-native deployments.
+
+🎯 Why This Project Matters
+This project demonstrates:
+• Cloud-native deployment
+• Infrastructure as Code
+• Containerisation
+• Azure PaaS services
+• Real-world architecture patterns
+• Clean API design
+• Ability to troubleshoot and deliver a working cloud system end-to-end
